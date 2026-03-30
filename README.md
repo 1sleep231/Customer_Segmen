@@ -117,8 +117,6 @@ Hasil clustering menghasilkan **5 segmen pelanggan utama**:
 ---
 
 ## 📈 Segment Distribution
-
-```markdown
 ![Segment Distribution](image.png)
 
 ---
